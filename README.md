@@ -5,7 +5,7 @@ Link to watch: [YouTube Playlist - Google Developers](www.youtube.com/playlist?l
 
 Install dependencies:
 
-`pip install -r requirements. txt`
+`pip install -r requirements.txt`
 
 
 ### Units:
