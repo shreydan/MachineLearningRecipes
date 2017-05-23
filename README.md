@@ -11,3 +11,5 @@ Install dependencies:
 ### Units:
 
 * [AppleOrange_Classifier](https://github.com/shreydan/MachineLearningRecipes/tree/master/AppleOrange_Classifier) : [video](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+
+* [IrisDataSet](https://github.com/shreydan/MachineLearningRecipes/tree/master/IrisDataSet) : [video](https://www.youtube.com/watch?v=tNa99PG8hR8)
