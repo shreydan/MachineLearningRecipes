@@ -71,7 +71,7 @@ The test_target was Setosa, Versicolor
 and Virginica which is [0 1 2].
 The prediction was [0 1 2] which says that
 this thing predicted all 3 species correctly
-which were at element 0,50,10 of iris.data list.
+which were at element 0,50,100 of iris.data list.
 
 
 Also,
